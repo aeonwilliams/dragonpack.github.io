@@ -1,6 +1,7 @@
 var hierarchy =
 [
     [ "LPK_AggressivePathFollower.AggressionProperties", "class_l_p_k___aggressive_path_follower_1_1_aggression_properties.html", null ],
+    [ "Cat", "class_cat.html", null ],
     [ "LPK_LogicBase.CollisionEventInfo", "class_l_p_k___logic_base_1_1_collision_event_info.html", null ],
     [ "LPK_ModifyTextOnEvent.ColorProperties", "class_l_p_k___modify_text_on_event_1_1_color_properties.html", null ],
     [ "LPK_ModifySpriteOnEvent.ColorProperties", "class_l_p_k___modify_sprite_on_event_1_1_color_properties.html", null ],
@@ -110,6 +111,6 @@ var hierarchy =
     [ "LPK_ModifySpriteOnEvent.TextureProperties", "class_l_p_k___modify_sprite_on_event_1_1_texture_properties.html", null ],
     [ "LPK_TrackingCamera.TrackingCamera_MoveEvent", "struct_l_p_k___tracking_camera_1_1_tracking_camera___move_event.html", null ],
     [ "LPK_ModifyTransformOnEvent.TranslateProperties", "class_l_p_k___modify_transform_on_event_1_1_translate_properties.html", null ],
-    [ "LPK_ModifySpriteOnEvent.VisibleProperties", "class_l_p_k___modify_sprite_on_event_1_1_visible_properties.html", null ],
-    [ "LPK_ModifyTextOnEvent.VisibleProperties", "class_l_p_k___modify_text_on_event_1_1_visible_properties.html", null ]
+    [ "LPK_ModifyTextOnEvent.VisibleProperties", "class_l_p_k___modify_text_on_event_1_1_visible_properties.html", null ],
+    [ "LPK_ModifySpriteOnEvent.VisibleProperties", "class_l_p_k___modify_sprite_on_event_1_1_visible_properties.html", null ]
 ];

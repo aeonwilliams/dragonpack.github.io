@@ -10,8 +10,8 @@ var class_l_p_k___modify_text_on_event =
       [ "SET", "class_l_p_k___modify_text_on_event.html#ac6e79513612821e369aca27bc2a57dc2a8c52684db8f49511e9b44471716bf164", null ],
       [ "COPY", "class_l_p_k___modify_text_on_event.html#ac6e79513612821e369aca27bc2a57dc2ae8606d021da140a92c7eba8d9b8af84f", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___modify_text_on_event.html#ad1cd94a9a3dcfaf9ba1899de908d9dcd", null ],
-    [ "OnStart", "class_l_p_k___modify_text_on_event.html#af69ea37d2de41475a94b9b92a46a956e", null ],
+    [ "OnEvent", "class_l_p_k___modify_text_on_event.html#ab4b5f529c9e07d78c32f610cc05dca0c", null ],
+    [ "OnStart", "class_l_p_k___modify_text_on_event.html#a54a6cbdb852346ece6ae6dd1c293105f", null ],
     [ "m_EventTrigger", "class_l_p_k___modify_text_on_event.html#acf1429fe166b7ca898c3e230f3366b64", null ],
     [ "m_FontProperties", "class_l_p_k___modify_text_on_event.html#ab25d5e015245ff207b9aaea7b253dff9", null ],
     [ "m_FontSizeProperties", "class_l_p_k___modify_text_on_event.html#ac716d2b90898ecdd8e6d55a0c785f31c", null ],

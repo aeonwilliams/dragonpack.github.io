@@ -1,5 +1,6 @@
 var annotated =
 [
+    [ "Cat", "class_cat.html", "class_cat" ],
     [ "CreateMouseCursor", "class_create_mouse_cursor.html", null ],
     [ "GamepadInputStatus", "class_gamepad_input_status.html", "class_gamepad_input_status" ],
     [ "GamepadShakeStatus", "class_gamepad_shake_status.html", "class_gamepad_shake_status" ],

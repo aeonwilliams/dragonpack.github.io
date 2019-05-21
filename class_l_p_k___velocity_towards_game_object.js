@@ -1,7 +1,7 @@
 var class_l_p_k___velocity_towards_game_object =
 [
-    [ "OnStart", "class_l_p_k___velocity_towards_game_object.html#a5570d83379b964fbfa26ea277901180c", null ],
-    [ "OnUpdate", "class_l_p_k___velocity_towards_game_object.html#ab074ca936d6c0fb3324312b0bcfab9c1", null ],
+    [ "OnStart", "class_l_p_k___velocity_towards_game_object.html#a2d3772dc686a63f89f365f9a406dbd8a", null ],
+    [ "OnUpdate", "class_l_p_k___velocity_towards_game_object.html#a585ba0e9ed1e75956ef1f30629c9b916", null ],
     [ "m_bOnlyOnce", "class_l_p_k___velocity_towards_game_object.html#afd7d53e727f36296d0d45f9a26c31f0e", null ],
     [ "m_flRadius", "class_l_p_k___velocity_towards_game_object.html#afd5f127d5078a2aba55444e73e45b51b", null ],
     [ "m_flSpeed", "class_l_p_k___velocity_towards_game_object.html#a3f673704ce88a0bcdba1b023f6e59a26", null ],

@@ -6,8 +6,8 @@ var class_l_p_k___path_follower =
       [ "LOOP_TELEPORT", "class_l_p_k___path_follower.html#a497fb59f807623a0b758896539ff6b01ada804815104f94018edab7bd7aa58bc8", null ],
       [ "LOOP_BACKTRACK", "class_l_p_k___path_follower.html#a497fb59f807623a0b758896539ff6b01a247ad4229dde0d23cfaea09e515d5b1a", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___path_follower.html#aca9335ddd9b22cec020e77b9944891c2", null ],
-    [ "OnStart", "class_l_p_k___path_follower.html#ab5bdc287ecccb1c27d420f2876f497af", null ],
+    [ "OnEvent", "class_l_p_k___path_follower.html#ae8b06556dc92b4db5ddc3639522800ba", null ],
+    [ "OnStart", "class_l_p_k___path_follower.html#a627f17a36824caf38c07bdc45d255b1f", null ],
     [ "m_bActive", "class_l_p_k___path_follower.html#ae0189fe738feaafcb3705dee3216b245", null ],
     [ "m_eLoopType", "class_l_p_k___path_follower.html#a9e40fc3e399429c013c4aed3c5f5263a", null ],
     [ "m_eToggleType", "class_l_p_k___path_follower.html#ad994aded72cbaa1d5e5fdde25bb262e0", null ],

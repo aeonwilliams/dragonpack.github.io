@@ -5,9 +5,9 @@ var class_l_p_k___dispatch_on_keyboard_input =
       [ "RELEASED", "class_l_p_k___dispatch_on_keyboard_input.html#a2a68216cc0080429b5147eaf2772c598a109d54efbb64d71f9a6ab18d0fb8add8", null ],
       [ "HELD", "class_l_p_k___dispatch_on_keyboard_input.html#a2a68216cc0080429b5147eaf2772c598ab33343cae11179cc3df2575f7f6ddc33", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___dispatch_on_keyboard_input.html#ad1fe42301accf597274b5d7d983d61c4", null ],
-    [ "OnStart", "class_l_p_k___dispatch_on_keyboard_input.html#a2b75df7b6235343b814a005eab112c47", null ],
-    [ "OnUpdate", "class_l_p_k___dispatch_on_keyboard_input.html#a3c91ae5ce2c2f64b6b4b6494ad688406", null ],
+    [ "OnEvent", "class_l_p_k___dispatch_on_keyboard_input.html#a8d0809d4f7a4c9796200ab474eb3f044", null ],
+    [ "OnStart", "class_l_p_k___dispatch_on_keyboard_input.html#ab587271c48bf1ace0003c6b0d473df5f", null ],
+    [ "OnUpdate", "class_l_p_k___dispatch_on_keyboard_input.html#af8cac7f18cd220f3a976eec239f06800", null ],
     [ "KeyboardEventReceivers", "class_l_p_k___dispatch_on_keyboard_input.html#a9dfac74b9123b4081040cff0b701c812", null ],
     [ "m_bActive", "class_l_p_k___dispatch_on_keyboard_input.html#af32fdd71db73f6291e8dbb129f9d1ef8", null ],
     [ "m_bAnyKey", "class_l_p_k___dispatch_on_keyboard_input.html#a3beabd932c86eebb32616520b446ebde", null ],

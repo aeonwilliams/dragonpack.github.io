@@ -6,9 +6,9 @@ var class_l_p_k___gradient_color_animator =
       [ "LOOP", "class_l_p_k___gradient_color_animator.html#adb942b5e679de10d45ea4d97a5f9d4fca9159b3578e4e1eb31ffdf90acd6f6e40", null ],
       [ "PINGPONG", "class_l_p_k___gradient_color_animator.html#adb942b5e679de10d45ea4d97a5f9d4fca65d1ef58bfa19db0a2f44fc48df5723a", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___gradient_color_animator.html#a50917cbd6bc8ca4fdbc3a8b4b6e25a86", null ],
-    [ "OnStart", "class_l_p_k___gradient_color_animator.html#a7ed5cf0701639305a9980291a32ded77", null ],
-    [ "OnUpdate", "class_l_p_k___gradient_color_animator.html#ade013a5a7fd8fa7fa0bd2c82f040804e", null ],
+    [ "OnEvent", "class_l_p_k___gradient_color_animator.html#ab2766217b2184b31f70a1e6c5ba02a57", null ],
+    [ "OnStart", "class_l_p_k___gradient_color_animator.html#a7a92a8b0291188337a90200d852916cf", null ],
+    [ "OnUpdate", "class_l_p_k___gradient_color_animator.html#ae15ce5f5e3a99370667df881bb98faaf", null ],
     [ "m_bActive", "class_l_p_k___gradient_color_animator.html#a42bc6aa401e1525b8df2f2e4aeaf2fa6", null ],
     [ "m_bNeverRestart", "class_l_p_k___gradient_color_animator.html#aad3884e7199194abacb8297d575908a8", null ],
     [ "m_eMode", "class_l_p_k___gradient_color_animator.html#a980ffe6990521ca2255d7208783d0ddf", null ],

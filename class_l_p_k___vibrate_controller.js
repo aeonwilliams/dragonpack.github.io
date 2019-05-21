@@ -13,9 +13,9 @@ var class_l_p_k___vibrate_controller =
       [ "FADE_IN", "class_l_p_k___vibrate_controller.html#a1dc0bcbe29c75504a2da5a5164bdb3bea3ce542dfb80acd9d3ecc081f236950cf", null ],
       [ "FADE_OUT", "class_l_p_k___vibrate_controller.html#a1dc0bcbe29c75504a2da5a5164bdb3beae5c4ab91cc2038893a3a99b567f13199", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___vibrate_controller.html#aaba68cfa97750b7c097316167e8abbe8", null ],
-    [ "OnStart", "class_l_p_k___vibrate_controller.html#a0f6b64bf3b3e6fb94efed22cc660ac05", null ],
-    [ "OnUpdate", "class_l_p_k___vibrate_controller.html#ab6f5d776040df732eb69db7fd694008c", null ],
+    [ "OnEvent", "class_l_p_k___vibrate_controller.html#aa4b5dc1f9acd84783fdbaae2f37d1b22", null ],
+    [ "OnStart", "class_l_p_k___vibrate_controller.html#ac667332258849ca1c50a817bf3b1e48a", null ],
+    [ "OnUpdate", "class_l_p_k___vibrate_controller.html#ac1679778830147eb2e91c924a94595df", null ],
     [ "m_bOnlyOnce", "class_l_p_k___vibrate_controller.html#a61f39cc1161a05549bca7766ade1d1cb", null ],
     [ "m_eControllerNumber", "class_l_p_k___vibrate_controller.html#af430c2c8288dcb4ad7ce379e70c3f6e4", null ],
     [ "m_eShakeType", "class_l_p_k___vibrate_controller.html#ac25a70a9d5e2e31eab9d5e07b56ecfd6", null ],

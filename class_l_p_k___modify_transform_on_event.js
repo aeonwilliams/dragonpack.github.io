@@ -15,8 +15,8 @@ var class_l_p_k___modify_transform_on_event =
       [ "WORLD", "class_l_p_k___modify_transform_on_event.html#a38e5e8b92a950c51a7301aaa04752e65a5289492cf082446ca4a6eec9f72f1ec3", null ],
       [ "LOCAL", "class_l_p_k___modify_transform_on_event.html#a38e5e8b92a950c51a7301aaa04752e65a54b4c4075463b2e02cd69f5cd139b5b2", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___modify_transform_on_event.html#a6504d0f1821a5e3e75f8c50e2a47de14", null ],
-    [ "OnStart", "class_l_p_k___modify_transform_on_event.html#a94130e49674d48946f19cc2ebee9572b", null ],
+    [ "OnEvent", "class_l_p_k___modify_transform_on_event.html#a7900fac060650450faa0149bd1246c68", null ],
+    [ "OnStart", "class_l_p_k___modify_transform_on_event.html#a1b6a10628b45390976a7a874f9baf24d", null ],
     [ "m_bModifyOnSpawn", "class_l_p_k___modify_transform_on_event.html#a97ca71e36dabddc1512f22d90514a3ea", null ],
     [ "m_eTransformMode", "class_l_p_k___modify_transform_on_event.html#a686c9781e62d9ce1d1c1fc338987eff7", null ],
     [ "m_EventTrigger", "class_l_p_k___modify_transform_on_event.html#a4b3ff5d6affda0f78efeca20f28496a7", null ],

@@ -9,9 +9,9 @@ var class_l_p_k___transform_animator =
       [ "WORLD", "class_l_p_k___transform_animator.html#af08d2da62964b8ede92565ae70d984d6a5289492cf082446ca4a6eec9f72f1ec3", null ],
       [ "LOCAL", "class_l_p_k___transform_animator.html#af08d2da62964b8ede92565ae70d984d6a54b4c4075463b2e02cd69f5cd139b5b2", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___transform_animator.html#a11471d4b89617bcd8565a5766cb0fea1", null ],
+    [ "OnEvent", "class_l_p_k___transform_animator.html#a6543f0a177c73278c191e9133f785d93", null ],
     [ "OnStart", "class_l_p_k___transform_animator.html#a79346b2c6332d3ac8e653ac38a05ef7b", null ],
-    [ "OnUpdate", "class_l_p_k___transform_animator.html#aef68f6431dd91da9a814dc175b8a1974", null ],
+    [ "OnUpdate", "class_l_p_k___transform_animator.html#aa1d502ac6b7eb794e5c52668b8f5a583", null ],
     [ "m_bIsActive", "class_l_p_k___transform_animator.html#a2275b14e5bb69d44d69445ec9f1ddec6", null ],
     [ "m_eLoopingStyle", "class_l_p_k___transform_animator.html#a29c65063edf434b77cec91ac6332a8d8", null ],
     [ "m_eToggleType", "class_l_p_k___transform_animator.html#a55355804d4f98e16febdbce3e51e9923", null ],

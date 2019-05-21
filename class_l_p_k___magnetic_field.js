@@ -1,8 +1,8 @@
 var class_l_p_k___magnetic_field =
 [
-    [ "OnEvent", "class_l_p_k___magnetic_field.html#aafdbb43b641e1dfd27fd6002db6dcdb4", null ],
-    [ "OnStart", "class_l_p_k___magnetic_field.html#ab3864f39fe57f7bbbacd4bd6958884e3", null ],
-    [ "OnUpdate", "class_l_p_k___magnetic_field.html#ae76a8cb11a023203deef5dcbcbbdda28", null ],
+    [ "OnEvent", "class_l_p_k___magnetic_field.html#ae9e6cad023d0818622130053736d624d", null ],
+    [ "OnStart", "class_l_p_k___magnetic_field.html#aac24a69a6a5dc2d1f92476d97db82b6a", null ],
+    [ "OnUpdate", "class_l_p_k___magnetic_field.html#a032b332dcdc4803610bbafa1cb87af86", null ],
     [ "m_bActive", "class_l_p_k___magnetic_field.html#ab4cb1395a173462fd615f483b1ffc695", null ],
     [ "m_bConstantForce", "class_l_p_k___magnetic_field.html#a8d417312c1b05d062b7346b861b14113", null ],
     [ "m_eToggleType", "class_l_p_k___magnetic_field.html#a9da45267de4c3478947942411e9a56eb", null ],

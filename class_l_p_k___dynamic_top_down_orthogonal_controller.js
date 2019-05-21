@@ -5,8 +5,8 @@ var class_l_p_k___dynamic_top_down_orthogonal_controller =
       [ "ROTATE_TO_FACE", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#a348935998f1279faf69169da492e18adaa1372d0748760167ed75a70901642203", null ],
       [ "SNAP_TO_FACE", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#a348935998f1279faf69169da492e18ada4e90202dcf599649a4cf63608ed0f490", null ]
     ] ],
-    [ "OnStart", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#a2e8b450f78359dc9073e8dea8e122641", null ],
-    [ "OnUpdate", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#ac00e4d70dd0d61036a855f1330ecdec7", null ],
+    [ "OnStart", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#adbfe6318b10ae9d6c15ccc21615b53e7", null ],
+    [ "OnUpdate", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#a3f7425b8c1f17f28babd92b732a5fb5c", null ],
     [ "m_bActive", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#a83d900275e674b590fa0580556ae4715", null ],
     [ "m_eFaceVelocity", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#a18113579fb3656a0d8e4843b493d29c8", null ],
     [ "m_flMoveSpeed", "class_l_p_k___dynamic_top_down_orthogonal_controller.html#aa2e9ac8b2253c0d5378182a7ca0dcc0f", null ],

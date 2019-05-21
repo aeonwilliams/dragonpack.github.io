@@ -5,9 +5,9 @@ var class_l_p_k___dispatch_on_gamepad_input =
       [ "RELEASED", "class_l_p_k___dispatch_on_gamepad_input.html#a819545f8960fd26b4cb327fd67f8f9e1a109d54efbb64d71f9a6ab18d0fb8add8", null ],
       [ "HELD", "class_l_p_k___dispatch_on_gamepad_input.html#a819545f8960fd26b4cb327fd67f8f9e1ab33343cae11179cc3df2575f7f6ddc33", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___dispatch_on_gamepad_input.html#a89bde7f4b17771a68995ab8a28b3c70b", null ],
-    [ "OnStart", "class_l_p_k___dispatch_on_gamepad_input.html#a421d1cac49b380a000402bbe09dd9c78", null ],
-    [ "OnUpdate", "class_l_p_k___dispatch_on_gamepad_input.html#a3aa84645033ed8bb884dfc8823aa69dc", null ],
+    [ "OnEvent", "class_l_p_k___dispatch_on_gamepad_input.html#a96bbefd3cea21fb208f1e061efa7ae36", null ],
+    [ "OnStart", "class_l_p_k___dispatch_on_gamepad_input.html#a6bb7938255470d559a60e21b1419505d", null ],
+    [ "OnUpdate", "class_l_p_k___dispatch_on_gamepad_input.html#ac2a46db4aeb42b38abf04e8d7c4c8e3d", null ],
     [ "GamepadInputReceivers", "class_l_p_k___dispatch_on_gamepad_input.html#adde4d6a191c285efbfb621a3cde3c887", null ],
     [ "m_bActive", "class_l_p_k___dispatch_on_gamepad_input.html#a99fc654ad8351ce979a6e2337b29aeae", null ],
     [ "m_eControllerNumber", "class_l_p_k___dispatch_on_gamepad_input.html#a309a0b495aa2a5678286babbbbd24b59", null ],

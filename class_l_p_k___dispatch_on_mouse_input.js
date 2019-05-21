@@ -5,8 +5,8 @@ var class_l_p_k___dispatch_on_mouse_input =
       [ "RELEASED", "class_l_p_k___dispatch_on_mouse_input.html#a2d2ed6baa572b190890b96068443d58da109d54efbb64d71f9a6ab18d0fb8add8", null ],
       [ "HELD", "class_l_p_k___dispatch_on_mouse_input.html#a2d2ed6baa572b190890b96068443d58dab33343cae11179cc3df2575f7f6ddc33", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___dispatch_on_mouse_input.html#ac4ed92fb92ef2bbee917db15ba676689", null ],
-    [ "OnStart", "class_l_p_k___dispatch_on_mouse_input.html#ac10942a42aa787b70422bff2c30ced77", null ],
+    [ "OnEvent", "class_l_p_k___dispatch_on_mouse_input.html#aa4269b8b36fe490aab82e83f94e18d6e", null ],
+    [ "OnStart", "class_l_p_k___dispatch_on_mouse_input.html#aa870e5ec1e0965b8a26da2c8e062d35f", null ],
     [ "OnUpdate", "class_l_p_k___dispatch_on_mouse_input.html#a35ee93f9eda3e7c93cc22cd7c3d526ee", null ],
     [ "m_bActive", "class_l_p_k___dispatch_on_mouse_input.html#a405a4598dcd14637a012f005d56a3b6b", null ],
     [ "m_eInputMode", "class_l_p_k___dispatch_on_mouse_input.html#acc2177d55d959e732df7660ca5d7553b", null ],

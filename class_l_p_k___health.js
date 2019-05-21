@@ -1,7 +1,7 @@
 var class_l_p_k___health =
 [
-    [ "OnEvent", "class_l_p_k___health.html#ae2bd04700594b55d66a3792b50ecf7c6", null ],
-    [ "OnStart", "class_l_p_k___health.html#a4dfcfe4bd8c35d0fdaecffd64e3f1e20", null ],
+    [ "OnEvent", "class_l_p_k___health.html#a0f72b1b0426f91f42c1c44db06b419bf", null ],
+    [ "OnStart", "class_l_p_k___health.html#a0780eaa2e69afc565fdbd79c73651c36", null ],
     [ "m_DamageReceivers", "class_l_p_k___health.html#a5353e625df464969507095ec280eb5ea", null ],
     [ "m_DeathReceivers", "class_l_p_k___health.html#aa502053b561bd973e2ae113f46b428e9", null ],
     [ "m_DisplayUpdateReceivers", "class_l_p_k___health.html#af93471567c85028790dc2b6c4996a054", null ],

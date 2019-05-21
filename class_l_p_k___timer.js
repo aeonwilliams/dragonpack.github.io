@@ -8,9 +8,9 @@ var class_l_p_k___timer =
       [ "RESET", "class_l_p_k___timer.html#aa1be14f7329fa2c2eed42dee8a7fc341ab5859d8721cfdc0312b2838b9c985bc1", null ],
       [ "STOP", "class_l_p_k___timer.html#aa1be14f7329fa2c2eed42dee8a7fc341a615a46af313786fc4e349f34118be111", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___timer.html#a51b16aa96ac0021dfcef2506474822de", null ],
-    [ "OnStart", "class_l_p_k___timer.html#a88531d4fc5a3c7d7edbee1fb16543377", null ],
-    [ "OnUpdate", "class_l_p_k___timer.html#a612b2fea8fc659e8474c90b85d12c08e", null ],
+    [ "OnEvent", "class_l_p_k___timer.html#ad6abbfbc4f39662ad833db5427b91146", null ],
+    [ "OnStart", "class_l_p_k___timer.html#aa3ccd744677f587111fa4c3774051e26", null ],
+    [ "OnUpdate", "class_l_p_k___timer.html#a206f1c5a53a4dcefd6680a7b937bfb0d", null ],
     [ "m_bActive", "class_l_p_k___timer.html#a70d0ac3ff5d63e0531f6e8320afdd420", null ],
     [ "m_DisplayUpdateReceiver", "class_l_p_k___timer.html#ad04143f4e6927900f4afd60cd2c468eb", null ],
     [ "m_eCountType", "class_l_p_k___timer.html#a19831a30e72d495a705207b89208f933", null ],

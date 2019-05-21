@@ -79,7 +79,7 @@ $(document).ready(function(){initNavTree('class_l_p_k___debug_line_drawer.html',
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -102,13 +102,16 @@ $(document).ready(function(){initNavTree('class_l_p_k___debug_line_drawer.html',
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aabfc42cdbc0891fbf099e9966f6b9911"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aabfc42cdbc0891fbf099e9966f6b9911"></a>
-&#160;</td><td class="memItemRight" valign="bottom"><b>LPK_DebugLineDrawer</b> (Color lineColor, GameObject parent)</td></tr>
+<tr class="memitem:aabfc42cdbc0891fbf099e9966f6b9911"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_l_p_k___debug_line_drawer.html#aabfc42cdbc0891fbf099e9966f6b9911">LPK_DebugLineDrawer</a> (Color lineColor, GameObject parent)</td></tr>
+<tr class="memdesc:aabfc42cdbc0891fbf099e9966f6b9911"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set up the line renderer and color.  <a href="#aabfc42cdbc0891fbf099e9966f6b9911">More...</a><br/></td></tr>
 <tr class="separator:aabfc42cdbc0891fbf099e9966f6b9911"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a08fcb691ae5896770f2c14485824af49"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_l_p_k___debug_line_drawer.html#a08fcb691ae5896770f2c14485824af49">DrawLineInGameView</a> (Vector3 startPos, Vector3 endPos)</td></tr>
-<tr class="separator:a08fcb691ae5896770f2c14485824af49"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8926e72fee969e5a729729f33583720e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_l_p_k___debug_line_drawer.html#a8926e72fee969e5a729729f33583720e">OnDisable</a> ()</td></tr>
-<tr class="separator:a8926e72fee969e5a729729f33583720e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08ff3a548305c33d0a0b8476fe91a6ee"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_l_p_k___debug_line_drawer.html#a08ff3a548305c33d0a0b8476fe91a6ee">DrawLineInGameView</a> (Vector3 startPos, Vector3 endPos)</td></tr>
+<tr class="memdesc:a08ff3a548305c33d0a0b8476fe91a6ee"><td class="mdescLeft">&#160;</td><td class="mdescRight">Draw the line.  <a href="#a08ff3a548305c33d0a0b8476fe91a6ee">More...</a><br/></td></tr>
+<tr class="separator:a08ff3a548305c33d0a0b8476fe91a6ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a440132f84e40234bcd2a24e17728f269"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a440132f84e40234bcd2a24e17728f269"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_l_p_k___debug_line_drawer.html#a440132f84e40234bcd2a24e17728f269">OnDisable</a> ()</td></tr>
+<tr class="memdesc:a440132f84e40234bcd2a24e17728f269"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove the line renderer component. <br/></td></tr>
+<tr class="separator:a440132f84e40234bcd2a24e17728f269"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -119,13 +122,48 @@ Color&#160;</td><td class="memItemRight" valign="bottom"><b>m_vecLineColor</b></
 GameObject&#160;</td><td class="memItemRight" valign="bottom"><b>m_pGameObject</b></td></tr>
 <tr class="separator:a434de97e7a86825ceb302b8eedb2ae48"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="a08fcb691ae5896770f2c14485824af49"></a>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a class="anchor" id="aabfc42cdbc0891fbf099e9966f6b9911"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">LPK_DebugLineDrawer.DrawLineInGameView </td>
+          <td class="memname">LPK_DebugLineDrawer.LPK_DebugLineDrawer </td>
+          <td>(</td>
+          <td class="paramtype">Color&#160;</td>
+          <td class="paramname"><em>lineColor</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">GameObject&#160;</td>
+          <td class="paramname"><em>parent</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set up the line renderer and color. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">lineColor</td><td>- color of the line. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a class="anchor" id="a08ff3a548305c33d0a0b8476fe91a6ee"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void LPK_DebugLineDrawer.DrawLineInGameView </td>
           <td>(</td>
           <td class="paramtype">Vector3&#160;</td>
           <td class="paramname"><em>startPos</em>, </td>
@@ -143,6 +181,7 @@ GameObject&#160;</td><td class="memItemRight" valign="bottom"><b>m_pGameObject</
         </tr>
       </table>
 </div><div class="memdoc">
+
 <p>Draw the line. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
@@ -150,22 +189,6 @@ GameObject&#160;</td><td class="memItemRight" valign="bottom"><b>m_pGameObject</
   </table>
   </dd>
 </dl>
-
-</div>
-</div>
-<a class="anchor" id="a8926e72fee969e5a729729f33583720e"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">LPK_DebugLineDrawer.OnDisable </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<p>Remove the line renderer component. </p>
 
 </div>
 </div>
@@ -178,7 +201,7 @@ GameObject&#160;</td><td class="memItemRight" valign="bottom"><b>m_pGameObject</
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="class_l_p_k___debug_line_drawer.html">LPK_DebugLineDrawer</a></li>
-    <li class="footer">Generated on Fri May 17 2019 13:39:49 for DragonPack by
+    <li class="footer">Generated on Mon May 20 2019 14:42:57 for DragonPack by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

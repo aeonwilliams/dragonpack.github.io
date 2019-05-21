@@ -1,7 +1,7 @@
 var class_l_p_k___feedback_manager =
 [
-    [ "OnEvent", "class_l_p_k___feedback_manager.html#a371471578f5612ba4fdbd247f1e5f4d2", null ],
-    [ "OnStart", "class_l_p_k___feedback_manager.html#a873fe4fdc55b32c56a4d88b7d4341f3d", null ],
+    [ "OnEvent", "class_l_p_k___feedback_manager.html#a97dae309009848ffbb1f932b6c1dfe34", null ],
+    [ "OnStart", "class_l_p_k___feedback_manager.html#ab6a6664b7e53879d73a5be8aea63aca0", null ],
     [ "m_bDisplayDebugText", "class_l_p_k___feedback_manager.html#a736b18c3040c40375f16a43f1ccc75e9", null ],
     [ "m_bStartFeedbackInstantly", "class_l_p_k___feedback_manager.html#abfe5a9bccd4b712dca90a08d1ce038ad", null ],
     [ "m_EventTrigger", "class_l_p_k___feedback_manager.html#a891a264e03bcdb5285863829fece0905", null ],

@@ -1,7 +1,7 @@
 var class_l_p_k___dynamic_top_down_rotation_controller =
 [
-    [ "OnStart", "class_l_p_k___dynamic_top_down_rotation_controller.html#a34f86f380a542e88aedad382815ac9e6", null ],
-    [ "OnUpdate", "class_l_p_k___dynamic_top_down_rotation_controller.html#aec7158b40bd32553a35e83c209a5ef65", null ],
+    [ "OnStart", "class_l_p_k___dynamic_top_down_rotation_controller.html#a29196271c55e9c9b46c562d3730e39f7", null ],
+    [ "OnUpdate", "class_l_p_k___dynamic_top_down_rotation_controller.html#a73c9b84c097a44f9828ed5f81515e929", null ],
     [ "m_bActive", "class_l_p_k___dynamic_top_down_rotation_controller.html#a975e957c2b4e0cf143dfebde28775c11", null ],
     [ "m_flAccelerationSpeed", "class_l_p_k___dynamic_top_down_rotation_controller.html#a9c57663fc16e5a80f926ba6154446330", null ],
     [ "m_flDragFactor", "class_l_p_k___dynamic_top_down_rotation_controller.html#a309118cc624d4af1ec926d120df5a981", null ],

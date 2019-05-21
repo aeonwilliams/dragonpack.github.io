@@ -8,8 +8,12 @@ var NAVTREE =
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ]
+        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Variables", "functions_vars.html", null ]
       ] ]
+    ] ],
+    [ "Files", null, [
+      [ "File List", "files.html", "files" ]
     ] ]
   ] ]
 ];
@@ -17,10 +21,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_l_p_k___dispatch_on_line_of_sight.html",
-"class_l_p_k___gradient_color_animator_1_1_renderer_properties.html",
-"class_l_p_k___modify_text_on_event_1_1_font_properties.html#aef5c6feebc6059450e1ff097ad97d8d7",
-"class_l_p_k___transform_animator.html#a08c208b2d9d7e36a2ec130c6340a3f26"
+"class_l_p_k___dispatch_on_keyboard_input.html#ab587271c48bf1ace0003c6b0d473df5f",
+"class_l_p_k___gradient_color_animator.html#adb942b5e679de10d45ea4d97a5f9d4fca65d1ef58bfa19db0a2f44fc48df5723a",
+"class_l_p_k___modify_text_on_event_1_1_color_properties.html#acdfb5c975585a39ee8818583715bc510",
+"class_l_p_k___transform_animation_key_frame.html#ab6380a2ce20abc249d5b6c8661e84f4f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

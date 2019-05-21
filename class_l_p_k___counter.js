@@ -9,8 +9,8 @@ var class_l_p_k___counter =
       [ "GREATER_EQUAL", "class_l_p_k___counter.html#a41a74462fc49a097c68aeeed6e6223eca87e6b203bf40967d37a33f9a4438561a", null ],
       [ "NONE", "class_l_p_k___counter.html#a41a74462fc49a097c68aeeed6e6223ecab50339a10e1de285ac99d4c3990b8693", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___counter.html#ace5967cc3f6cdf479945109359613b56", null ],
-    [ "OnStart", "class_l_p_k___counter.html#a20126ec72515116569396cbf2ad916ee", null ],
+    [ "OnEvent", "class_l_p_k___counter.html#a2917107555c2fcfa6d5d5347343af742", null ],
+    [ "OnStart", "class_l_p_k___counter.html#a7ac8735c8bad85ba3257aa413dd114c8", null ],
     [ "m_bOnlyOnce", "class_l_p_k___counter.html#ad164409c055e41db1fa8bfda0ad8edaf", null ],
     [ "m_CounterDecreasedReceivers", "class_l_p_k___counter.html#a532be7a968c2be92c44b155a27b3ba4f", null ],
     [ "m_CounterIncreasedReceivers", "class_l_p_k___counter.html#a09bc4ef6bc6e1fb3d07693b764993671", null ],

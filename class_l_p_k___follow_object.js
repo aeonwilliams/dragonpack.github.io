@@ -7,8 +7,8 @@ var class_l_p_k___follow_object =
       [ "LEFT", "class_l_p_k___follow_object.html#acf6fce764044cd430ff81722090768cea684d325a7303f52e64011467ff5c5758", null ],
       [ "RIGHT", "class_l_p_k___follow_object.html#acf6fce764044cd430ff81722090768cea21507b40c80068eda19865706fdc2403", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___follow_object.html#a0b410076a1a369c28c190830494a751f", null ],
-    [ "OnStart", "class_l_p_k___follow_object.html#a758525fbd3e89562e8694a8072885f90", null ],
+    [ "OnEvent", "class_l_p_k___follow_object.html#acd1793f2eb67f387ac76299fb8938609", null ],
+    [ "OnStart", "class_l_p_k___follow_object.html#aa74ccc46fdc9d6afec5aaf876676ca55", null ],
     [ "m_bActive", "class_l_p_k___follow_object.html#a0a64f199b82739b25003c4805675ac65", null ],
     [ "m_bBecomeChild", "class_l_p_k___follow_object.html#a302151e11314d0d37fe9ac899709ea72", null ],
     [ "m_bCanBeStolen", "class_l_p_k___follow_object.html#a8736815c241921afba29152bd22655a8", null ],

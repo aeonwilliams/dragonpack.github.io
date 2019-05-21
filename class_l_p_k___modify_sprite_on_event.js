@@ -8,7 +8,7 @@ var class_l_p_k___modify_sprite_on_event =
       [ "SET", "class_l_p_k___modify_sprite_on_event.html#a89e21b53a09015e1c1f059c05754e292a8c52684db8f49511e9b44471716bf164", null ],
       [ "COPY", "class_l_p_k___modify_sprite_on_event.html#a89e21b53a09015e1c1f059c05754e292ae8606d021da140a92c7eba8d9b8af84f", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___modify_sprite_on_event.html#acd971e8cd40bfdf8ba8d25b52d645cd9", null ],
+    [ "OnEvent", "class_l_p_k___modify_sprite_on_event.html#a274a9ebd04c9c64e4b6f6b62f2c8651f", null ],
     [ "OnStart", "class_l_p_k___modify_sprite_on_event.html#a3b35c8af23dee6ed4879e0df66d57778", null ],
     [ "m_EventTrigger", "class_l_p_k___modify_sprite_on_event.html#a8692d0db4a9e986489bb5f16d8b40a84", null ],
     [ "m_pTargetModifyObject", "class_l_p_k___modify_sprite_on_event.html#a0885859fc8259689842bed27650bc84f", null ],

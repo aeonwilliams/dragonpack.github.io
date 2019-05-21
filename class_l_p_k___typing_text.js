@@ -4,9 +4,9 @@ var class_l_p_k___typing_text =
       [ "TYPE", "class_l_p_k___typing_text.html#ac98541942c523523e9658e8785da1a2ba948495146facadfe8859789036313d79", null ],
       [ "CHARACTER_SCROLL", "class_l_p_k___typing_text.html#ac98541942c523523e9658e8785da1a2ba44410872ecd6670dd902fb05487d1ec1", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___typing_text.html#a9874e88a735f8fec48b6313dafa41e4b", null ],
-    [ "OnStart", "class_l_p_k___typing_text.html#a9e3303aea7eabb21849e08e8967988c4", null ],
-    [ "OnUpdate", "class_l_p_k___typing_text.html#af32c00c01a494df90ad6409db628f633", null ],
+    [ "OnEvent", "class_l_p_k___typing_text.html#a1d4a60a2abad69c747560b6232aa2a47", null ],
+    [ "OnStart", "class_l_p_k___typing_text.html#a9ed459b6765d2cde591a503f891c3964", null ],
+    [ "OnUpdate", "class_l_p_k___typing_text.html#af15969c395cbd1e4e95cdda896ee2a31", null ],
     [ "m_bActive", "class_l_p_k___typing_text.html#a0f2b20b5929503412adb6d5e85cb3141", null ],
     [ "m_eTypeMode", "class_l_p_k___typing_text.html#a54e48f47b840066d4042bdc48c8af546", null ],
     [ "m_EventTrigger", "class_l_p_k___typing_text.html#a083da8de4c0cc33333690ca7fbd8679a", null ],

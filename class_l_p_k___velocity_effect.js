@@ -8,9 +8,9 @@ var class_l_p_k___velocity_effect =
       [ "SET", "class_l_p_k___velocity_effect.html#ae7bcded001ead3f2cd1f369ba59e09c6a8c52684db8f49511e9b44471716bf164", null ],
       [ "ADD", "class_l_p_k___velocity_effect.html#ae7bcded001ead3f2cd1f369ba59e09c6a9eeb52badb613229884838847294b90d", null ]
     ] ],
-    [ "OnEvent", "class_l_p_k___velocity_effect.html#ab9fade361dfd7995f6452840b8aca68c", null ],
-    [ "OnStart", "class_l_p_k___velocity_effect.html#a8950001c4dc386e4653f548d6cc01ae5", null ],
-    [ "OnUpdate", "class_l_p_k___velocity_effect.html#a26093320be006f44805582ede5c4addd", null ],
+    [ "OnEvent", "class_l_p_k___velocity_effect.html#a678a0f419a7a85cedcae24989fc75704", null ],
+    [ "OnStart", "class_l_p_k___velocity_effect.html#a65a18ecb906019898b0fbe943d2e58e6", null ],
+    [ "OnUpdate", "class_l_p_k___velocity_effect.html#af87e9db4e408c6f240620dc62c4dac96", null ],
     [ "m_bActive", "class_l_p_k___velocity_effect.html#a6e0ee4bfdaa46d5723dba88e6a83bee6", null ],
     [ "m_bEveryFrame", "class_l_p_k___velocity_effect.html#a9b5bfb088de3610b9ff30f93cc219c9d", null ],
     [ "m_eDirection", "class_l_p_k___velocity_effect.html#a7db9d14a7b321fdc8a00e8a0c1858bdd", null ],
